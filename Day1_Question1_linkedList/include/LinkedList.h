@@ -169,8 +169,8 @@ public:
     //////////////////////////////////////////
     int insertAfter(T data,T afterData)
     {
-        Node<T>* result=getNodeByData(data);
-        Node<T>* newNode=new Node<T>(afterData);
+        Node<T>* result=getNodeByData(afterData);
+        Node<T>* newNode=new Node<T>(data);
 
         if(result==NULL)
         {
@@ -194,8 +194,8 @@ public:
     //////////////////////////////////////////
     int insertBefore(T data,T beforeData)
     {
-        Node<T>* result=getNodeByData(data);
-        Node<T>* newNode=new Node<T>(beforeData);
+        Node<T>* result=getNodeByData(beforeData);
+        Node<T>* newNode=new Node<T>(data);
 
         if(result==NULL)
         {

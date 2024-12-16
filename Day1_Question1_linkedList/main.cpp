@@ -42,19 +42,22 @@ int main()
     list.display();
     cout<<"linked list contains "<<list.getCounter()<<" nodes \n";
 
-    list.insertAfter(40,600)?cout<<"Data inserted after  \n":cout<<"Data after is Not inserted,data is not found \n";
+    list.insertAfter(600,40)?cout<<"Data inserted after  \n":cout<<"Data after is Not inserted,data is not found \n";
     list.display();
     cout<<"linked list contains "<<list.getCounter()<<" nodes \n";
 
 
-    list.insertBefore(40,500)?cout<<"Data inserted Before \n":cout<<"Data Before is Not inserted,data is not found \n";
+    list.insertBefore(500,40)?cout<<"Data inserted Before \n":cout<<"Data Before is Not inserted,data is not found \n";
     list.display();
     cout<<"linked list contains "<<list.getCounter()<<" nodes \n";
 
 
-    list.insertBefore(5,500)?cout<<"Data inserted Before \n":cout<<"Data Before is Not inserted,data is not found \n";
+    list.insertBefore(850,5)?cout<<"Data inserted Before \n":cout<<"Data Before is Not inserted,data is not found \n";
     list.display();
     cout<<"linked list contains "<<list.getCounter()<<" nodes \n";
+
+    list.insertBefore(850,555)?cout<<"Data inserted Before \n":cout<<"Data Before is Not inserted,data is not found \n";
+
 
 
 
