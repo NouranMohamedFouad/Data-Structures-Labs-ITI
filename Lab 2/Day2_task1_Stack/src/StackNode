@@ -1,0 +1,11 @@
+#include "StackNode.h"
+
+StackNode::StackNode()
+{
+    //ctor
+}
+
+StackNode::~StackNode()
+{
+    //dtor
+}
