@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734715396 source:e:\iti\data structures\labs\binarysearchandlinearsearchonlinkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734715335 e:\iti\data structures\labs\binarysearchandlinearsearchonlinkedlist\include\linkedlist.h
+	"Node.h"
+
+1734715254 e:\iti\data structures\labs\binarysearchandlinearsearchonlinkedlist\include\node.h
+

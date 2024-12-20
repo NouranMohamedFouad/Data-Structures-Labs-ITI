@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734697575 source:e:\iti\data structures\labs\day3_task1_linearsearch\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734697609 e:\iti\data structures\labs\day3_task1_linearsearch\include\linkedlist.h
+	"Node.h"
+
+1734693213 e:\iti\data structures\labs\day3_task1_linearsearch\include\node.h
+

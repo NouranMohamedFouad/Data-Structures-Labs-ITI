@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734716167 source:e:\iti\data structures\labs\day3_task4_bubblesortonnodes&data\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734716351 e:\iti\data structures\labs\day3_task4_bubblesortonnodes&data\include\linkedlist.h
+	"Node.h"
+
+1734715917 e:\iti\data structures\labs\day3_task4_bubblesortonnodes&data\include\node.h
+
